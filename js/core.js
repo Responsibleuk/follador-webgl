@@ -70,9 +70,9 @@ const anita_config = {
             'url': '#',
             'label': 'Fb.'
         },
-        'twitter' : {
+        'linkedin' : {
             'url': '#',
-            'label': 'Tw.'
+            'label': 'Li.'
         },
         'instagram' : {
             'url': '#',
@@ -104,7 +104,7 @@ const anita_config = {
     /* --- Localization --- */
     l10n: {
         // Footer Copyright string
-        copyright: 'Copyright &copy; 2022. All Rights Reserved.',
+        copyright: 'Copyright &copy; 2023 Follador Prosecco All Rights Reserved.',
 
         // The message that appears when visitors try to open context menu
         rcp_message: 'Context menu is not allowed on this website',
