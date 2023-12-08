@@ -52,6 +52,7 @@ const anita_config = {
         //     'Bricks 1x2': 'albums-bricks-1x2.html',
         //     'Bricks 2x3': 'albums-bricks-2x3.html'
         // },
+        'Home': 'index.html',
         'About': 'page-about.html',
         'Prosecco': 'page-about.html',
         'Wine': 'page-about.html',
